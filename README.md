@@ -1,8 +1,6 @@
 # Node-Sample-Application
 
-Created  sample app having the below –Cancel changes
-
-You can setup sample routes. /home, /details .. add a middleware function which will get the current time store it in the request and pass it to the next route using “next()”
+Created sample application with below using below features.
 
 **Routes
 Middleware
