@@ -2,12 +2,12 @@
 
 Created sample application with below using below features.
 
-**Routes
-Middleware
-Callback
-Promises
-Async and Await
-concept of “next()”
+**Routes,
+Middleware,
+Callback,
+Promises,
+Async and Await,
+concept of “next()”,
 res.end and res.send**
 
 # npm i
